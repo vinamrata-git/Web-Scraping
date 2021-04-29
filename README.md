@@ -2,4 +2,4 @@
 
 # Project: API and Web Data Scraping
 
-Scraped a Indian E-commerce website to find out current deals and trending brands, types of clothes and high rating brands with maximum discounts 
+Scraped an Indian E-commerce website to find out current deals and trending brands, types of clothes and high rating brands with maximum discounts 
